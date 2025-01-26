@@ -45,4 +45,4 @@ The simulation successfully demonstrates phase transitions with the following ob
 
 Here is a preview of the final report:
 
-![Final Report Screenshot](final_report.png)
+![Final Report Screenshot](final%20report.png)
