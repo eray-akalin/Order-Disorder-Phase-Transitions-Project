@@ -1,7 +1,7 @@
 # Computational Simulation of an Order-Disorder Phase Transition
 
 ## Project Overview
-This project presents a computational simulation of a **2D Ising model** to study **order-disorder phase transitions** in a magnetic system. The model aims to explore how thermal fluctuations influence spin alignment and phase transitions, using **Monte Carlo methods** to simulate different temperature scenarios.
+This project (size of 7 people) presents a computational simulation of a **2D Ising model** to study **order-disorder phase transitions** in a magnetic system. The model aims to explore how thermal fluctuations influence spin alignment and phase transitions, using **Monte Carlo methods** to simulate different temperature scenarios.
 
 ## Simulation Details
 
