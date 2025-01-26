@@ -40,3 +40,9 @@ The simulation successfully demonstrates phase transitions with the following ob
 - At temperatures below **T_c ≈ 2.31**, the system maintains an ordered state.
 - Near the critical temperature, magnetization sharply declines.
 - Above the critical point, disorder dominates with minimal magnetization.
+
+## Final Report Preview
+
+Here is a preview of the final report:
+
+![Final Report Screenshot](final_report.png)
